@@ -17,3 +17,4 @@ source ~/.config/nvim/disable.vim
 
 " Custom status line
 source ~/.config/nvim/statusline.vim
+

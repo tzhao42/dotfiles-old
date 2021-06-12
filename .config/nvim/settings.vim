@@ -8,6 +8,7 @@ silent e
 set ttimeoutlen=5
 
 " python tabbing (duplicated in ftplugin)
+" get rid of me??
 set tabstop=4
 set shiftwidth=4
 set softtabstop=4

@@ -33,3 +33,4 @@ smap <c-k> <Plug>(neosnippet_expand_or_jump)
 xmap <c-k> <Plug>(neosnippet_expand_target)
 vmap <c-k> <Plug>(neosnippet_expand_target)
 set completeopt-=preview " disable new window for snippets
+
